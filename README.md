@@ -1,7 +1,7 @@
 # Calculating Gods Number Using Spectral Graph Theory
 A final project on calculating God's number of a Rubik's cube using spectral graph theory
 
-The project is done using our Maple file labeled RubiksCube.maple to generate the Rubik's cube group, its Cayley graphs, and corresponding adjacency matrices.  
+The project is done using our Maple file labeled RubiksCube.mw to generate the Rubik's cube group, its Cayley graphs, and corresponding adjacency matrices.  
 
 Then after converting the matrices to Matlab, we used our files largeMatrixMaker.m/smallMatrixMaker.m to calculate the eigenvalues of the graphs which allowed us to determine information about the Rubik's cube.
 
