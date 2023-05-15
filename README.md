@@ -6,3 +6,5 @@ The project is done using our Maple file labeled RubiksCube.mw to generate the R
 Then after converting the matrices to Matlab, we used our files largeMatrixMaker.m/smallMatrixMaker.m to calculate the eigenvalues of the graphs which allowed us to determine information about the Rubik's cube.
 
 Our final paper is also attached.  It was written using LaTeX on Overleaf, the files for the paper attached as well.
+
+Finally we want to give a big thank you to our professor, Dr. Tait.  Without his guidance our research would not have been as successful as it was.
